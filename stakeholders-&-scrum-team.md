@@ -12,9 +12,9 @@ Definição de stakeholders e time scrum.
 
 ## Time Scrum
 
-1 - PO
-1 - Scrum master
-1 - Tech Lead
-1 - Desenvolvedor infra (devops)
-2 - Desenvolvedores backend
-2 - Desenvolvedores mobile
+- 1 PO
+- 1 Scrum master
+- 1 Tech Lead
+- 1 Desenvolvedor infra (devops)
+- 2 Desenvolvedores backend
+- 2 Desenvolvedores mobile
