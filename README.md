@@ -4,9 +4,9 @@ App mobile de aluguel de joias.
 
 ## Table of Contents
 
-- [vídeo de apresentação](./video-url.txt) 
-- [lean inception e MVP Canvas](./canvas-url.txt) 
-- [product backlog e DoR & DoD](./product-backlog.pdf) 
-- [sprint backlog](./sprint-backlog.pdf) 
-- [wireframes das telas](./wireframes) 
-- [stakeholders & time scrum](./stakeholders-&-scrum-team.md) 
+- [Vídeo de apresentação](https://youtu.be/TV1wJSGkK0E) ou [arquivo](./video-url.txt)
+- [Lean Inception e MVP Canvas](https://miro.com/app/board/uXjVKUzAiBw=/?share_link_id=719244283137) ou [arquivo](./canvas-url.txt)
+- [Product backlog e DoR & DoD](./product-backlog.pdf) 
+- [Sprint backlog](./sprint-backlog.pdf) 
+- [Wireframes das telas](./wireframes) 
+- [Stakeholders & time scrum](./stakeholders-&-scrum-team.md) 
